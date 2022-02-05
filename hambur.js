@@ -1,4 +1,3 @@
-HTML CSS JS Result Skip Results Iframe
 
 const menu = document.querySelector(".menu");
 const menuItems = document.querySelectorAll(".menuItem");
